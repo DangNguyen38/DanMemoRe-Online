@@ -1,6 +1,6 @@
 # DanMemoRe Online
 
-Community online server reimplementation for **DanMachi: Memoria Freese 15.1.0 (EU, ARM64)**. Python 3.12+, SQLite and OpenSSL. The native game API, per-account workers, shared game modes, asset delivery and in-game notices are included. Browser administration and account portals are not included.
+Community online server reimplementation for **DanMachi: Memoria Freese 15.1.0 (EU, ARM64)**. Python 3.12+, SQLite and OpenSSL. The native game API, per-account workers, shared game modes, asset delivery and in-game notices are included.
 
 This is reconstructed server software, not the publisher's server source. Some scoring, matchmaking and scheduling policies are reconstructed. Backend checks do not guarantee every Android screen or game mode works exactly like the retired service.
 
@@ -28,7 +28,7 @@ output/                 Built APKs (not tracked)
 
 ## Required inputs
 
-The repository contains server source and runtime metadata. **The bulk game asset archive, APKs, account saves, signing identities and live server configuration are not distributed.** Runtime catalogs and preserved in-game notice templates are included. Supply your own compatible archive before starting:
+The repository contains server source and runtime metadata. Runtime catalogs and preserved in-game notice templates are included. Supply your own compatible archive before starting:
 
 ```text
 static/bundles/
