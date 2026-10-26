@@ -1,0 +1,12 @@
+{
+  "banners": {},
+  "events": {},
+  "modeSchedules": {
+    "online": {
+      "modes": {}
+    },
+    "offline": {
+      "modes": {}
+    }
+  }
+}

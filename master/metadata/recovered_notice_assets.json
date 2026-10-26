@@ -1,0 +1,1037 @@
+[
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/common/notice/7ed6264dc59a2567fa4b925d919e9a1270097734/css/style.css",
+    "replay": "https://web.archive.org/web/20190717093551id_/https://cdn-danmemo.akamaized.net/us/webview/common/notice/7ed6264dc59a2567fa4b925d919e9a1270097734/css/style.css",
+    "status": "archived",
+    "file": ".work/asset-recovery/web-archive/85a93343989379c4dc443ffffc232291c97053c92fd40a8ec5b89f22656d7d16.css",
+    "sha256": "85a93343989379c4dc443ffffc232291c97053c92fd40a8ec5b89f22656d7d16",
+    "bytes": 22574
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/common/notice/7ed6264dc59a2567fa4b925d919e9a1270097734/img/btn_03.png",
+    "replay": "https://web.archive.org/web/20190720133326id_/https://cdn-danmemo.akamaized.net/us/webview/common/notice/7ed6264dc59a2567fa4b925d919e9a1270097734/img/btn_03.png",
+    "status": "archived",
+    "file": ".work/asset-recovery/web-archive/11a80ac599cef54d1c28b201ac98f3ec5c437820b5aa3d364b93abb79638ce80.png",
+    "sha256": "11a80ac599cef54d1c28b201ac98f3ec5c437820b5aa3d364b93abb79638ce80",
+    "bytes": 12026
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/common/notice/7ed6264dc59a2567fa4b925d919e9a1270097734/js/tab.js",
+    "replay": "https://web.archive.org/web/20190717093551id_/https://cdn-danmemo.akamaized.net/us/webview/common/notice/7ed6264dc59a2567fa4b925d919e9a1270097734/js/tab.js",
+    "status": "archived",
+    "file": ".work/asset-recovery/web-archive/5f2287270a1bee7f14bbcbfe1597222357804af8903a98e500764582429dc4f9.js",
+    "sha256": "5f2287270a1bee7f14bbcbfe1597222357804af8903a98e500764582429dc4f9",
+    "bytes": 2908
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/0bc522ff686999896e4661e65eff0fea.png",
+    "replay": "https://web.archive.org/web/20190713100917id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/0bc522ff686999896e4661e65eff0fea.png",
+    "status": "archived",
+    "file": ".work/asset-recovery/web-archive/0c3919f9dfab94ce4675e69a8d27ef15aac1496067efbc932a9b0052ca677a78.png",
+    "sha256": "0c3919f9dfab94ce4675e69a8d27ef15aac1496067efbc932a9b0052ca677a78",
+    "bytes": 1137319
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/4baa9507746dff58b6a70c8e956b9e70.png",
+    "replay": "https://web.archive.org/web/20190717093551id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/4baa9507746dff58b6a70c8e956b9e70.png",
+    "status": "archived",
+    "file": ".work/asset-recovery/web-archive/b96c60166b73069985afcf39ac1610be157a5d01352c416a6e8c1331ceebb230.png",
+    "sha256": "b96c60166b73069985afcf39ac1610be157a5d01352c416a6e8c1331ceebb230",
+    "bytes": 227721
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/71b80fa4535d7970df1c52da9380a26e.png",
+    "replay": "https://web.archive.org/web/20190713100917id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/71b80fa4535d7970df1c52da9380a26e.png",
+    "status": "archived",
+    "file": ".work/asset-recovery/web-archive/b59e7648b78011d2fce256b00210e01ddb91e99ab8367af3f067ef48e3032bce.png",
+    "sha256": "b59e7648b78011d2fce256b00210e01ddb91e99ab8367af3f067ef48e3032bce",
+    "bytes": 1129144
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/f801f4b7290fdc7f5be6fb2d5d4167eb.png",
+    "replay": "https://web.archive.org/web/20190713100917id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/f801f4b7290fdc7f5be6fb2d5d4167eb.png",
+    "status": "archived",
+    "file": ".work/asset-recovery/web-archive/2a9bfddaacb6fa1414243346cc8e7959c612a7b33d2eb65c2427e6ab4574298c.png",
+    "sha256": "2a9bfddaacb6fa1414243346cc8e7959c612a7b33d2eb65c2427e6ab4574298c",
+    "bytes": 1152782
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/4cab58bab4c672c67f27cb58fac6ddc9.png",
+    "replay": "https://web.archive.org/web/20190717093551id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/4cab58bab4c672c67f27cb58fac6ddc9.png",
+    "status": "archived",
+    "file": ".work/asset-recovery/web-archive/71452e895cc7a073955c523d6ff60f19e94fb7977faa047044528a31efefcba1.png",
+    "sha256": "71452e895cc7a073955c523d6ff60f19e94fb7977faa047044528a31efefcba1",
+    "bytes": 301804
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/9799c24fbf292df53ec1d0bcac0a4926.png",
+    "replay": "https://web.archive.org/web/20190717093610id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/9799c24fbf292df53ec1d0bcac0a4926.png",
+    "status": "archived",
+    "file": ".work/asset-recovery/web-archive/19531506b14590e7ece15a38345bf3299ebb6a4f55a0d4fc88a9ca6e2414be85.png",
+    "sha256": "19531506b14590e7ece15a38345bf3299ebb6a4f55a0d4fc88a9ca6e2414be85",
+    "bytes": 301335
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/a91bbabdd1e97ad322eca2a986234566.png",
+    "replay": "https://web.archive.org/web/20190708165344id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/a91bbabdd1e97ad322eca2a986234566.png",
+    "status": "archived",
+    "file": ".work/asset-recovery/web-archive/785433a5d628c287325618d45d6c78ad561c2bbd436c4d9ed2d42d53616c5a69.png",
+    "sha256": "785433a5d628c287325618d45d6c78ad561c2bbd436c4d9ed2d42d53616c5a69",
+    "bytes": 153483
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/2d222cbfd57a610f0d4a8faeb1cf2fec.png",
+    "source": "https://web.archive.org/web/20231120100016id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002204&",
+    "lotteryIds": [
+      171002204,
+      171002206,
+      171002207,
+      171002208,
+      171002209,
+      171002210,
+      171002211,
+      171002212
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/b05f24072a3e1b9e0ee13745f54938a04d893cfc0c6ea62b7aa4643da1180eda.png",
+    "sha256": "b05f24072a3e1b9e0ee13745f54938a04d893cfc0c6ea62b7aa4643da1180eda",
+    "bytes": 175446,
+    "retrievedFrom": "https://web.archive.org/web/20231120100016id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/2d222cbfd57a610f0d4a8faeb1cf2fec.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/60dc52f40447e798d384b5f531eaa6d3.png",
+    "source": "https://web.archive.org/web/20231120110016id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002205&",
+    "lotteryIds": [
+      171002205,
+      171002206,
+      171002207,
+      171002208,
+      171002209,
+      171002210,
+      171002211,
+      171002212
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/04b46e504d2da7a451b7a4afb94699f4e9de8ba44fd5eea29365d9caddcf7600.png",
+    "sha256": "04b46e504d2da7a451b7a4afb94699f4e9de8ba44fd5eea29365d9caddcf7600",
+    "bytes": 213398,
+    "retrievedFrom": "https://web.archive.org/web/20231120110016id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/60dc52f40447e798d384b5f531eaa6d3.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/5415207693d5294297966d0049e35d9e.png",
+    "source": "https://web.archive.org/web/20200215174721id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000837&",
+    "lotteryIds": [
+      171000837
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/154483bbaa5c0262ca496069610ed9454105400d7ee2b63c6225b8960c1a5138.png",
+    "sha256": "154483bbaa5c0262ca496069610ed9454105400d7ee2b63c6225b8960c1a5138",
+    "bytes": 281411,
+    "retrievedFrom": "https://web.archive.org/web/20200215174721id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/5415207693d5294297966d0049e35d9e.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/9b4efeda9e45d2f63e7e9ba473bb3206.png",
+    "source": "https://web.archive.org/web/20200215183512id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000838&",
+    "lotteryIds": [
+      171000838
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/18ae0d46ed46da6d54ad920fa9c9a9fa7e6e0e3c148161c56ca812304a63792e.png",
+    "sha256": "18ae0d46ed46da6d54ad920fa9c9a9fa7e6e0e3c148161c56ca812304a63792e",
+    "bytes": 281422,
+    "retrievedFrom": "https://web.archive.org/web/20200215183512id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/9b4efeda9e45d2f63e7e9ba473bb3206.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/2a40556718b3efef65da6d82d4f8bab2.png",
+    "source": "https://web.archive.org/web/20200325121531id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000870&l=us&",
+    "lotteryIds": [
+      171000870,
+      171000871,
+      171000872
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/4dbba8391d059f6543d3d6fb408dd597ded45db5579d779c094b0b096b0465c7.png",
+    "sha256": "4dbba8391d059f6543d3d6fb408dd597ded45db5579d779c094b0b096b0465c7",
+    "bytes": 234431,
+    "retrievedFrom": "https://web.archive.org/web/20200325121531id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/2a40556718b3efef65da6d82d4f8bab2.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/91d8f382a8e692fb9fb306ce1b739dc1.png",
+    "source": "https://web.archive.org/web/20200325124804id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000872&l=us&",
+    "lotteryIds": [
+      171000872
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/1f6f33e25d02d93c78ed75ce05fd2972badc3cb55055405c4192e0d8ee68c401.png",
+    "sha256": "1f6f33e25d02d93c78ed75ce05fd2972badc3cb55055405c4192e0d8ee68c401",
+    "bytes": 261521,
+    "retrievedFrom": "https://web.archive.org/web/20200325124804id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/91d8f382a8e692fb9fb306ce1b739dc1.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/a7959b4e7d69531cb8612f8714dd93a8.png",
+    "source": "https://web.archive.org/web/20200329184419id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000874&l=us",
+    "lotteryIds": [
+      171000874,
+      171000876,
+      171000877,
+      171000878
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/9b48efcdf4dcbe6aaa552a137500d6015602a374313f88ab94e6952b22372f85.png",
+    "sha256": "9b48efcdf4dcbe6aaa552a137500d6015602a374313f88ab94e6952b22372f85",
+    "bytes": 185796,
+    "retrievedFrom": "https://web.archive.org/web/20200329184419id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/a7959b4e7d69531cb8612f8714dd93a8.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/d09987a2f10ddda6d6a9ad750b03ef1e.png",
+    "source": "https://web.archive.org/web/20200414195822id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000899%3F&l=us",
+    "lotteryIds": [
+      171000899
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/2a21d8138afdc84fa7e544550ed3ca935b88beb22344a5e08c86286cd3aeec9d.png",
+    "sha256": "2a21d8138afdc84fa7e544550ed3ca935b88beb22344a5e08c86286cd3aeec9d",
+    "bytes": 288621,
+    "retrievedFrom": "https://web.archive.org/web/20200414195822id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/d09987a2f10ddda6d6a9ad750b03ef1e.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/a352bced9f113b385efde07b550f9780.png",
+    "source": "https://web.archive.org/web/20200414201453id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000900%3F&l=us",
+    "lotteryIds": [
+      171000900
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/444e839681dbfc05c56261af89dbe21d732fafe6003a653fcad45feb4c3d9b80.png",
+    "sha256": "444e839681dbfc05c56261af89dbe21d732fafe6003a653fcad45feb4c3d9b80",
+    "bytes": 264252,
+    "retrievedFrom": "https://web.archive.org/web/20200414201453id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/a352bced9f113b385efde07b550f9780.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/7ecd5b443dd76a6428f6ae852970fc2b.png",
+    "source": "https://web.archive.org/web/20200408190043id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000910",
+    "lotteryIds": [
+      171000910
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/ec0dd4d1b6ea56ef0483fb53f01ca532a890a3cf05cfb3baae9f912e86bb714e.png",
+    "sha256": "ec0dd4d1b6ea56ef0483fb53f01ca532a890a3cf05cfb3baae9f912e86bb714e",
+    "bytes": 161290,
+    "retrievedFrom": "https://web.archive.org/web/20200408190043id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/7ecd5b443dd76a6428f6ae852970fc2b.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/cd336b803cd03c33635ab9d93b305026.png",
+    "source": "https://web.archive.org/web/20200408190043id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000910",
+    "lotteryIds": [
+      171000910,
+      171000911
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/d9470cab28ceef4700bfd9cfc70b8a1578ae8027a375054d8dc28cfb95a87e2e.png",
+    "sha256": "d9470cab28ceef4700bfd9cfc70b8a1578ae8027a375054d8dc28cfb95a87e2e",
+    "bytes": 36257,
+    "retrievedFrom": "https://web.archive.org/web/20200408190043id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/cd336b803cd03c33635ab9d93b305026.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/910a75acdf524cf48be9f5997813cb2b.png",
+    "source": "https://web.archive.org/web/20200525220128id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000970&l=us",
+    "lotteryIds": [
+      171000970
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/2015d07e00f6f3aafd40ca85918e619f055be8bd082d140889f9af9c87a29681.png",
+    "sha256": "2015d07e00f6f3aafd40ca85918e619f055be8bd082d140889f9af9c87a29681",
+    "bytes": 204556,
+    "retrievedFrom": "https://web.archive.org/web/20200525220128id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/910a75acdf524cf48be9f5997813cb2b.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/e77f712b9f6144a7f6f39febc75eab63.png",
+    "source": "https://web.archive.org/web/20200318100034id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000859&",
+    "lotteryIds": [
+      171000859
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/ff3faa8395719675e92ca3eb92c2a91d04553aa0b77614f71b3988941c1aae2c.png",
+    "sha256": "ff3faa8395719675e92ca3eb92c2a91d04553aa0b77614f71b3988941c1aae2c",
+    "bytes": 359917,
+    "retrievedFrom": "https://web.archive.org/web/20200318100034id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/e77f712b9f6144a7f6f39febc75eab63.png",
+    "attempts": [
+      "<urlopen error [Errno 11001] getaddrinfo failed>"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/14f40003050c3c9696346a36de121f8d.png",
+    "source": "https://web.archive.org/web/20200318100034id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000859&",
+    "lotteryIds": [
+      171000859,
+      171000861,
+      171000862,
+      171000863,
+      171000864,
+      171000866,
+      171000867
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/d2079275c19da5cf00cf55a4e542f421b9db8261a30a342616427011640a5651.png",
+    "sha256": "d2079275c19da5cf00cf55a4e542f421b9db8261a30a342616427011640a5651",
+    "bytes": 262667,
+    "retrievedFrom": "https://web.archive.org/web/20200318100034id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/14f40003050c3c9696346a36de121f8d.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/80824ce7bf35b8d805e7071d45038001.png",
+    "source": "https://web.archive.org/web/20210127124508id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000890",
+    "lotteryIds": [
+      171000890
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/e5b2335c3604f5071b1081ecabaa5db618fc81106eb679ebaef0a3f445716396.png",
+    "sha256": "e5b2335c3604f5071b1081ecabaa5db618fc81106eb679ebaef0a3f445716396",
+    "bytes": 224489,
+    "retrievedFrom": "https://web.archive.org/web/20210127124508id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/80824ce7bf35b8d805e7071d45038001.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/f415f4ddf275190005b5bb97b63f3b21.png",
+    "source": "https://web.archive.org/web/20200329125256id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000885&l=us",
+    "lotteryIds": [
+      171000885
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/dc6322875943e65fb7e7157dc45092a9ab408a91f7cbf1fb99d38704333fb640.png",
+    "sha256": "dc6322875943e65fb7e7157dc45092a9ab408a91f7cbf1fb99d38704333fb640",
+    "bytes": 371196,
+    "retrievedFrom": "https://web.archive.org/web/20200329125256id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/f415f4ddf275190005b5bb97b63f3b21.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/8bbaf46f62fe3e4ba90406f6e1c33ea3.png",
+    "source": "https://web.archive.org/web/20200519195858id_/https://api-danmemo-eu.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000932&l=us",
+    "lotteryIds": [
+      171000932
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/fde0eed943881fa70bc418d5f5a3f365332b07638f35b23e450b35b9c21588d0.png",
+    "sha256": "fde0eed943881fa70bc418d5f5a3f365332b07638f35b23e450b35b9c21588d0",
+    "bytes": 268638,
+    "retrievedFrom": "https://web.archive.org/web/20200519195858id_/https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/8bbaf46f62fe3e4ba90406f6e1c33ea3.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/e204e7ff914e1f869df4be5d9c8bd9e8.png",
+    "source": "https://web.archive.org/web/20200515173703id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000934&l=us",
+    "lotteryIds": [
+      171000934,
+      171000935,
+      171000936
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/6522dbb2db25c3b7ef6bf857b2081081610f5f257a86e6c28865b07aaeb5c59e.png",
+    "sha256": "6522dbb2db25c3b7ef6bf857b2081081610f5f257a86e6c28865b07aaeb5c59e",
+    "bytes": 263618,
+    "retrievedFrom": "https://web.archive.org/web/20200515173703id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/e204e7ff914e1f869df4be5d9c8bd9e8.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/ac6d818b9a854d6eb2ca1c5b0633e6ee.png",
+    "source": "https://web.archive.org/web/20210119154029id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001189",
+    "lotteryIds": [
+      171001189,
+      171001191,
+      171001192,
+      171001194
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/a3d201de50be9dce3cfe99a2e0991f797eac1d0f441ba0fd8430fbd74e9bc64a.png",
+    "sha256": "a3d201de50be9dce3cfe99a2e0991f797eac1d0f441ba0fd8430fbd74e9bc64a",
+    "bytes": 214249,
+    "retrievedFrom": "https://web.archive.org/web/20210119154029id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/ac6d818b9a854d6eb2ca1c5b0633e6ee.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/08fb7a01fe61dba764af25ff907cb89f.png",
+    "source": "https://web.archive.org/web/20210515071058id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001325",
+    "lotteryIds": [
+      171001325
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/acb08bd9caefb21a7c1ce920832072a0b53b26d72c651a66457b4954a7d07fd1.png",
+    "sha256": "acb08bd9caefb21a7c1ce920832072a0b53b26d72c651a66457b4954a7d07fd1",
+    "bytes": 251469,
+    "retrievedFrom": "https://web.archive.org/web/20210515071058id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/08fb7a01fe61dba764af25ff907cb89f.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/fc5076a67119c72be407b4dd1bb3a0c8.png",
+    "source": "https://web.archive.org/web/20210626203350id_/https://api-danmemo-eu.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001386",
+    "lotteryIds": [
+      171001386
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/68e0a702fb5238958e57ee1271d0a4207a470fe798fd3eb13ed3db0c515b49ba.png",
+    "sha256": "68e0a702fb5238958e57ee1271d0a4207a470fe798fd3eb13ed3db0c515b49ba",
+    "bytes": 312279,
+    "retrievedFrom": "https://web.archive.org/web/20210626203350id_/https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/fc5076a67119c72be407b4dd1bb3a0c8.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/71954ef0b81b2b1d7256e6b9fc21a312.png",
+    "source": "https://web.archive.org/web/20210626203350id_/https://api-danmemo-eu.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001386",
+    "lotteryIds": [
+      171001386
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/8c5c40f9201578126d56ba93cf3fee419508a46d25b8a4713be6a245f8c05d07.png",
+    "sha256": "8c5c40f9201578126d56ba93cf3fee419508a46d25b8a4713be6a245f8c05d07",
+    "bytes": 272251,
+    "retrievedFrom": "https://web.archive.org/web/20210626203350id_/https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/71954ef0b81b2b1d7256e6b9fc21a312.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/c6286914be3bb41060805cf0385cef55.png",
+    "source": "https://web.archive.org/web/20210726150029id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001402",
+    "lotteryIds": [
+      171001402,
+      171001404,
+      171001405
+    ],
+    "status": "archived",
+    "file": "tools/recovered_notice_files/03c152d631c9f813def554f0f95ba6f7b4c4ca0c1074f5f375af49ff7824c9fe.png",
+    "sha256": "03c152d631c9f813def554f0f95ba6f7b4c4ca0c1074f5f375af49ff7824c9fe",
+    "bytes": 267548,
+    "retrievedFrom": "https://web.archive.org/web/20210726150029id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/c6286914be3bb41060805cf0385cef55.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/f3b1995b7efee405439acdc11332a1dc.png",
+    "source": "https://web.archive.org/web/20231120100016id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002204&",
+    "lotteryIds": [
+      171002204,
+      171002206,
+      171002207,
+      171002208,
+      171002209,
+      171002210,
+      171002211,
+      171002212
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/f391b0f657179f42891599e1d3967f7d24b2ce79971c98dea8cfc58d0ac5f01f.png",
+    "sha256": "f391b0f657179f42891599e1d3967f7d24b2ce79971c98dea8cfc58d0ac5f01f",
+    "bytes": 188478,
+    "retrievedFrom": "https://web.archive.org/web/20231120100016id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/f3b1995b7efee405439acdc11332a1dc.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/dab9ebaf44a8f3290984c93e05ddb451.png",
+    "source": "https://web.archive.org/web/20231120100016id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002204&",
+    "lotteryIds": [
+      171002204,
+      171002206,
+      171002207,
+      171002208,
+      171002209,
+      171002210,
+      171002211,
+      171002212
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/284111e669a41d27abf37bc3e7ca6a030eaf59bcfdebb72eee9e4d8bf8f0ad0b.png",
+    "sha256": "284111e669a41d27abf37bc3e7ca6a030eaf59bcfdebb72eee9e4d8bf8f0ad0b",
+    "bytes": 162652,
+    "retrievedFrom": "https://web.archive.org/web/20231120100016id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/dab9ebaf44a8f3290984c93e05ddb451.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/f4550b5c31c39458f8c24c9a818f8c22.png",
+    "source": "https://web.archive.org/web/20231120110016id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002205&",
+    "lotteryIds": [
+      171002205,
+      171002206,
+      171002207,
+      171002208,
+      171002209,
+      171002210,
+      171002211,
+      171002212
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/ef5faf1a91f1da1841aef5d45f0f8a58b2365973dfedd3addbb56bedbc31aefc.png",
+    "sha256": "ef5faf1a91f1da1841aef5d45f0f8a58b2365973dfedd3addbb56bedbc31aefc",
+    "bytes": 197058,
+    "retrievedFrom": "https://web.archive.org/web/20231120110016id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/f4550b5c31c39458f8c24c9a818f8c22.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/48e1e7e049288e4cbafbe75bd963e15e.png",
+    "source": "https://web.archive.org/web/20231120110016id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002205&",
+    "lotteryIds": [
+      171002205,
+      171002206,
+      171002207,
+      171002208,
+      171002209,
+      171002210,
+      171002211,
+      171002212
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/bba4cb9cafae1fb660213daa98f6b41a036d23f39c44001b132de3b43c8362db.png",
+    "sha256": "bba4cb9cafae1fb660213daa98f6b41a036d23f39c44001b132de3b43c8362db",
+    "bytes": 174620,
+    "retrievedFrom": "https://web.archive.org/web/20231120110016id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/48e1e7e049288e4cbafbe75bd963e15e.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/418f8735afe7dbec96acfeb16a26a1d1.png",
+    "source": "https://web.archive.org/web/20230422080003id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002059&",
+    "lotteryIds": [
+      171002059
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/84e362c83ff0c548b85d7634b3331bbf819f128313883840133a84042f45f1b1.png",
+    "sha256": "84e362c83ff0c548b85d7634b3331bbf819f128313883840133a84042f45f1b1",
+    "bytes": 378082,
+    "retrievedFrom": "https://web.archive.org/web/20230422080003id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/418f8735afe7dbec96acfeb16a26a1d1.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/fcfeb6b57b31e642ac13de747c2c10df.png",
+    "source": "https://web.archive.org/web/20230626090001id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002115&",
+    "lotteryIds": [
+      171002115,
+      171002229
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/eec84dc3ad5c6e039553fcac977b68ca0ea695371d1411dfe8e8b54d44460836.png",
+    "sha256": "eec84dc3ad5c6e039553fcac977b68ca0ea695371d1411dfe8e8b54d44460836",
+    "bytes": 347036,
+    "retrievedFrom": "https://web.archive.org/web/20230626090001id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/fcfeb6b57b31e642ac13de747c2c10df.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/472e513812e85144888a7ef39ed33533.png",
+    "source": "https://web.archive.org/web/20230626090001id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002115&",
+    "lotteryIds": [
+      171002115,
+      171002229
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/33894931332f190435e6a6f24c4ef19f795ad5c01ef7358de3f00291d00bb74c.png",
+    "sha256": "33894931332f190435e6a6f24c4ef19f795ad5c01ef7358de3f00291d00bb74c",
+    "bytes": 351425,
+    "retrievedFrom": "https://web.archive.org/web/20230626090001id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/472e513812e85144888a7ef39ed33533.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/d25b8d74b7d83f470854291b5d4dd0fd.png",
+    "source": "https://web.archive.org/web/20230626090001id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002115&",
+    "lotteryIds": [
+      171002115,
+      171002229
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/aec60f59fafa6e82aba39c93dcfcb4412888bf5de8767bd55f3b95473fc8b6f5.png",
+    "sha256": "aec60f59fafa6e82aba39c93dcfcb4412888bf5de8767bd55f3b95473fc8b6f5",
+    "bytes": 322097,
+    "retrievedFrom": "https://web.archive.org/web/20230626090001id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/d25b8d74b7d83f470854291b5d4dd0fd.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/05c1be2682fb377eae2e76cf3feaa265.png",
+    "source": "https://web.archive.org/web/20200330174214id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000793&l=us",
+    "lotteryIds": [
+      171000793
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/8ff34c4e2a1617b976e27c34aab9d7f000adf319639eb9973f983367f64dae40.png",
+    "sha256": "8ff34c4e2a1617b976e27c34aab9d7f000adf319639eb9973f983367f64dae40",
+    "bytes": 202845,
+    "retrievedFrom": "https://web.archive.org/web/20200330174214id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/05c1be2682fb377eae2e76cf3feaa265.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/12eb5975da2ff591211bb41903cea8af.png",
+    "source": "https://web.archive.org/web/20200121175156id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000801&",
+    "lotteryIds": [
+      171000801
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/d44718bdc633995d4b1ac63049c88931668a9573e59138b191ebaf87b0c440a8.png",
+    "sha256": "d44718bdc633995d4b1ac63049c88931668a9573e59138b191ebaf87b0c440a8",
+    "bytes": 352512,
+    "retrievedFrom": "https://web.archive.org/web/20200121175156id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/noticeLarge/12eb5975da2ff591211bb41903cea8af.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/653fc5dcfadb546f0143307bc78476a6.png",
+    "source": "https://web.archive.org/web/20200121175156id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000801&",
+    "lotteryIds": [
+      171000801
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/a2f72ee512c9885bc0c8a4695e2debf812ed80b322f2fb6e5fdfad840fd1b7ba.png",
+    "sha256": "a2f72ee512c9885bc0c8a4695e2debf812ed80b322f2fb6e5fdfad840fd1b7ba",
+    "bytes": 254337,
+    "retrievedFrom": "https://web.archive.org/web/20200121175156id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/653fc5dcfadb546f0143307bc78476a6.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/bfba2844079a1c68a8ed19d083f7f36b.png",
+    "source": "https://web.archive.org/web/20200428194354id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000943&l=us",
+    "lotteryIds": [
+      171000943,
+      171000993,
+      171001236
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/9780e2d9d51a094df672fb82cdf9a39b50fc767f2a7615c116102d1a229ca92f.png",
+    "sha256": "9780e2d9d51a094df672fb82cdf9a39b50fc767f2a7615c116102d1a229ca92f",
+    "bytes": 213611,
+    "retrievedFrom": "https://web.archive.org/web/20200428194354id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/bfba2844079a1c68a8ed19d083f7f36b.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/415eac5875ba2bc4db3f9cd6f484f5ad.png",
+    "source": "https://web.archive.org/web/20200428194354id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171000943&l=us",
+    "lotteryIds": [
+      171000943
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/210ff26678853bf7abd379e1bbd772649adabb5d9dbfe7b6e9bd65260b0b2406.png",
+    "sha256": "210ff26678853bf7abd379e1bbd772649adabb5d9dbfe7b6e9bd65260b0b2406",
+    "bytes": 235079,
+    "retrievedFrom": "https://web.archive.org/web/20200428194354id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/415eac5875ba2bc4db3f9cd6f484f5ad.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/c589731fd5f9a38cded3abcbe0e07798.png",
+    "source": "https://web.archive.org/web/20201012164113id_/https://api-danmemo-eu.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001082&l=us",
+    "lotteryIds": [
+      171001082
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/8db331698840d33738d9e9fc81600a25e20bdc2dff34f8f35ab8d6f74be7ec1f.png",
+    "sha256": "8db331698840d33738d9e9fc81600a25e20bdc2dff34f8f35ab8d6f74be7ec1f",
+    "bytes": 237156,
+    "retrievedFrom": "https://web.archive.org/web/20201012164113id_/https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/c589731fd5f9a38cded3abcbe0e07798.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/f4cd5d8c910899b037c677515cd66c98.png",
+    "source": "https://web.archive.org/web/20210617140109id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001375",
+    "lotteryIds": [
+      171001375
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/e1e7af1ecbc69d005a7a3c7a3e94109cbce7051e09c24cb7d227a14fc896dd72.png",
+    "sha256": "e1e7af1ecbc69d005a7a3c7a3e94109cbce7051e09c24cb7d227a14fc896dd72",
+    "bytes": 280216,
+    "retrievedFrom": "https://web.archive.org/web/20210617140109id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/f4cd5d8c910899b037c677515cd66c98.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/fc5076a67119c72be407b4dd1bb3a0c8.png",
+    "source": "https://web.archive.org/web/20210626171322id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001390",
+    "lotteryIds": [
+      171001390,
+      171001391
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/68e0a702fb5238958e57ee1271d0a4207a470fe798fd3eb13ed3db0c515b49ba.png",
+    "sha256": "68e0a702fb5238958e57ee1271d0a4207a470fe798fd3eb13ed3db0c515b49ba",
+    "bytes": 312279,
+    "retrievedFrom": "https://web.archive.org/web/20210626171322id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/fc5076a67119c72be407b4dd1bb3a0c8.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/4fda0050dce551ea0df06eccf19b060d.png",
+    "source": "https://web.archive.org/web/20210726150029id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001402",
+    "lotteryIds": [
+      171001402,
+      171001404,
+      171001405,
+      171001526,
+      171001527
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/a8881a52c21750e6640dfa0d7fc6668e12173af43bf653a921a53375de81134c.png",
+    "sha256": "a8881a52c21750e6640dfa0d7fc6668e12173af43bf653a921a53375de81134c",
+    "bytes": 266374,
+    "retrievedFrom": "https://web.archive.org/web/20210726150029id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/4fda0050dce551ea0df06eccf19b060d.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/c56f215f715830bb32d479f4626d19c6.png",
+    "source": "https://web.archive.org/web/20220506092041id_/https://api-danmemo-eu.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001669",
+    "lotteryIds": [
+      171001669
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/26806d24ee5ace7909bb3250c8139e6f8c9f4b31db7f67c2983abff7482a6946.png",
+    "sha256": "26806d24ee5ace7909bb3250c8139e6f8c9f4b31db7f67c2983abff7482a6946",
+    "bytes": 227507,
+    "retrievedFrom": "https://web.archive.org/web/20220506092041id_/https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/c56f215f715830bb32d479f4626d19c6.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/ed19dbf77ff296e8fa0124e34999cd5c.png",
+    "source": "https://web.archive.org/web/20220528150015id_/https://api-danmemo-eu.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001717",
+    "lotteryIds": [
+      171001717,
+      171001862
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/37e2cdad251b1ec89c15311435a471511fff9519c433036c6e6e7dbfdc74b007.png",
+    "sha256": "37e2cdad251b1ec89c15311435a471511fff9519c433036c6e6e7dbfdc74b007",
+    "bytes": 251466,
+    "retrievedFrom": "https://web.archive.org/web/20220528150015id_/https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/ed19dbf77ff296e8fa0124e34999cd5c.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/4ea6ea8e99b7faef6d0df54d6edc2381.png",
+    "source": "https://web.archive.org/web/20220629144157id_/https://api-danmemo-eu.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001747",
+    "lotteryIds": [
+      171001747,
+      171001748,
+      171001749,
+      171001750,
+      171001752
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/d34a47e27108ad032137aeb8dbd4dca4d7a142fdaab72ccc381c07b94d1451d7.png",
+    "sha256": "d34a47e27108ad032137aeb8dbd4dca4d7a142fdaab72ccc381c07b94d1451d7",
+    "bytes": 288619,
+    "retrievedFrom": "https://web.archive.org/web/20220629144157id_/https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/4ea6ea8e99b7faef6d0df54d6edc2381.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/abb58c18ea68a726e4b1a2167f7185b4.png",
+    "source": "https://web.archive.org/web/20220711132021id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001766",
+    "lotteryIds": [
+      171001766
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/8e088a448b81b2cec3d1d14629c2f05c098ae23f0cda1cf946bd71a346d54fa4.png",
+    "sha256": "8e088a448b81b2cec3d1d14629c2f05c098ae23f0cda1cf946bd71a346d54fa4",
+    "bytes": 317545,
+    "retrievedFrom": "https://web.archive.org/web/20220711132021id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/abb58c18ea68a726e4b1a2167f7185b4.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/5c18c4b47d38e9a0324d4bbcbf5b135d.png",
+    "source": "https://web.archive.org/web/20220918112009id_/https://api-danmemo-eu.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001806&",
+    "lotteryIds": [
+      171001806
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/d9831298e9be068a7331771f163cc215c83733876d575aa040c879a829cbf0ae.png",
+    "sha256": "d9831298e9be068a7331771f163cc215c83733876d575aa040c879a829cbf0ae",
+    "bytes": 255124,
+    "retrievedFrom": "https://web.archive.org/web/20220918112009id_/https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/5c18c4b47d38e9a0324d4bbcbf5b135d.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/631f6f9fc67693415eb1c78c30094bd4.png",
+    "source": "https://web.archive.org/web/20220918120029id_/https://api-danmemo-eu.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001807&",
+    "lotteryIds": [
+      171001807
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/2d09f72d8785df0ddf797318bf0051e3f35a5cfa3429c1e9e62da6fa9e7d08d6.png",
+    "sha256": "2d09f72d8785df0ddf797318bf0051e3f35a5cfa3429c1e9e62da6fa9e7d08d6",
+    "bytes": 275424,
+    "retrievedFrom": "https://web.archive.org/web/20220918120029id_/https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/631f6f9fc67693415eb1c78c30094bd4.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/ab364674ca60a55bc114ef21b067bd00.png",
+    "source": "https://web.archive.org/web/20230202130008id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001964&",
+    "lotteryIds": [
+      171001964,
+      171001966
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/7f16064f86bbca5c0a16eb87d94deba55e68730bf163aed85bf79eb811721e61.png",
+    "sha256": "7f16064f86bbca5c0a16eb87d94deba55e68730bf163aed85bf79eb811721e61",
+    "bytes": 360044,
+    "retrievedFrom": "https://web.archive.org/web/20230202130008id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/ab364674ca60a55bc114ef21b067bd00.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/8260d28ad257ed04d6ffef8a941050d6.png",
+    "source": "https://web.archive.org/web/20230207120011id_/https://api-danmemo-eu.wrightflyer.net/asset/notice/lottery/view?lotteryId=171001976&",
+    "lotteryIds": [
+      171001976
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/8ba4b04d454fee29ab93162fc399a19e513efeb58042dcbbf022b4a59a5576ba.png",
+    "sha256": "8ba4b04d454fee29ab93162fc399a19e513efeb58042dcbbf022b4a59a5576ba",
+    "bytes": 200086,
+    "retrievedFrom": "https://web.archive.org/web/20230207120011id_/https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/8260d28ad257ed04d6ffef8a941050d6.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/9cb7d84f53835d9a9af01d3d51cf4cc1.png",
+    "source": "https://web.archive.org/web/20230318100546id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002018&",
+    "lotteryIds": [
+      171002018
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/c170a45d1b5f8a5305779b0da754acec1b545726be106fa992e78ba029529ecb.png",
+    "sha256": "c170a45d1b5f8a5305779b0da754acec1b545726be106fa992e78ba029529ecb",
+    "bytes": 186796,
+    "retrievedFrom": "https://web.archive.org/web/20230318100546id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/9cb7d84f53835d9a9af01d3d51cf4cc1.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/24196b0b59c19c9cebe220d3850960c8.png",
+    "source": "https://web.archive.org/web/20230323120025id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002022&",
+    "lotteryIds": [
+      171002022,
+      171002023
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/5acb1342cf97bc8ec8bb47ad8fb7f55f6a263ef175f17a089d868912221fd447.png",
+    "sha256": "5acb1342cf97bc8ec8bb47ad8fb7f55f6a263ef175f17a089d868912221fd447",
+    "bytes": 335306,
+    "retrievedFrom": "https://web.archive.org/web/20230323120025id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/24196b0b59c19c9cebe220d3850960c8.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/24196b0b59c19c9cebe220d3850960c8.png",
+    "source": "https://web.archive.org/web/20230325132021id_/https://api-danmemo-eu.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002024&",
+    "lotteryIds": [
+      171002024
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/5acb1342cf97bc8ec8bb47ad8fb7f55f6a263ef175f17a089d868912221fd447.png",
+    "sha256": "5acb1342cf97bc8ec8bb47ad8fb7f55f6a263ef175f17a089d868912221fd447",
+    "bytes": 335306,
+    "retrievedFrom": "https://web.archive.org/web/20230325132021id_/https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/24196b0b59c19c9cebe220d3850960c8.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/e148f799a66b818a7a87865cdc216185.png",
+    "source": "https://web.archive.org/web/20230412070224id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002038&",
+    "lotteryIds": [
+      171002038
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/ae2a53ab9f93b2e561c71f1d2bbd10e9048c80a357235bfa3f3d5793168d6d27.png",
+    "sha256": "ae2a53ab9f93b2e561c71f1d2bbd10e9048c80a357235bfa3f3d5793168d6d27",
+    "bytes": 333986,
+    "retrievedFrom": "https://web.archive.org/web/20230412070224id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/e148f799a66b818a7a87865cdc216185.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/595f4121cea32ac8d577cc330650f93e.png",
+    "source": "https://web.archive.org/web/20230412070224id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002038&",
+    "lotteryIds": [
+      171002038
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/032b1e7665653f5ab7aa03584f3516d33b145f3944a3bc1c588a579bd16f0728.png",
+    "sha256": "032b1e7665653f5ab7aa03584f3516d33b145f3944a3bc1c588a579bd16f0728",
+    "bytes": 332887,
+    "retrievedFrom": "https://web.archive.org/web/20230412070224id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/595f4121cea32ac8d577cc330650f93e.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/bf5e04c230bd966462121b49dbe98a93.png",
+    "source": "https://web.archive.org/web/20230430080001id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002056&",
+    "lotteryIds": [
+      171002056,
+      171002057
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/fe941f6b8b313bfadcb15c9a346fbf3bb4cbf6ac9aa193f563fc283a63fd7932.png",
+    "sha256": "fe941f6b8b313bfadcb15c9a346fbf3bb4cbf6ac9aa193f563fc283a63fd7932",
+    "bytes": 163554,
+    "retrievedFrom": "https://web.archive.org/web/20230430080001id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/bf5e04c230bd966462121b49dbe98a93.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/18a015e2ad06680348fbf17d0e85e026.png",
+    "source": "https://web.archive.org/web/20230430080001id_/https://api-danmemo-us.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002056&",
+    "lotteryIds": [
+      171002056,
+      171002057
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/97e3ec92941a3f8a0f9fe08b7bafb759ef13e187b72db53552d4b6ea088d4bea.png",
+    "sha256": "97e3ec92941a3f8a0f9fe08b7bafb759ef13e187b72db53552d4b6ea088d4bea",
+    "bytes": 199536,
+    "retrievedFrom": "https://web.archive.org/web/20230430080001id_/https://cdn-danmemo.akamaized.net/us/webview/production-us/notice/img/18a015e2ad06680348fbf17d0e85e026.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  },
+  {
+    "url": "https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/802e3cc6322199228428926ecd332924.png",
+    "source": "https://web.archive.org/web/20230613214010id_/https://api-danmemo-eu.wrightflyer.net/asset/notice/lottery/view?lotteryId=171002112&",
+    "lotteryIds": [
+      171002112
+    ],
+    "status": "archived",
+    "transport": "azure-direct",
+    "file": "tools/recovered_notice_files/196cbda5cf68a9dbbacd9eb9108f966bda5a4fb9ba7c320838a1b9df1f9a8311.png",
+    "sha256": "196cbda5cf68a9dbbacd9eb9108f966bda5a4fb9ba7c320838a1b9df1f9a8311",
+    "bytes": 316345,
+    "retrievedFrom": "https://web.archive.org/web/20230613214010id_/https://cdn-danmemo.akamaized.net/eu/webview/production-eu/notice/img/802e3cc6322199228428926ecd332924.png",
+    "attempts": [
+      "HTTP Error 403: Forbidden"
+    ]
+  }
+]

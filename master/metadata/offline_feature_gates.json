@@ -1,0 +1,200 @@
+[
+  {
+    "id": 9000001,
+    "name": "Event",
+    "stageCode": "adventure_stage.stage_014",
+    "stageId": 1010000102110,
+    "flagCode": "system_flag.feature.event_quest",
+    "flagId": 91218003,
+    "visible": true
+  },
+  {
+    "id": 9000002,
+    "name": "レビューモーダル",
+    "stageCode": "adventure_stage.stage_046",
+    "stageId": 1010000105111,
+    "flagCode": "system_flag.argo.review_modal",
+    "flagId": 91960008,
+    "visible": false
+  },
+  {
+    "id": 9000003,
+    "name": "Arena",
+    "stageCode": "adventure_stage.stage_046",
+    "stageId": 1010000105111,
+    "flagCode": "system_flag.feature.arena",
+    "flagId": 91218004,
+    "visible": true
+  },
+  {
+    "id": 9000004,
+    "name": "Blacksmith",
+    "stageCode": "adventure_stage.stage_062",
+    "stageId": 1010000107110,
+    "flagCode": "system_flag.feature.blacksmith",
+    "flagId": 91218005,
+    "visible": true
+  },
+  {
+    "id": 9000005,
+    "name": "Crafting",
+    "stageCode": "adventure_stage.stage_210",
+    "stageId": 1010000121109,
+    "flagCode": "system_flag.feature.blacksmith_make",
+    "flagId": 91218006,
+    "visible": true
+  },
+  {
+    "id": 9000006,
+    "name": "Boost",
+    "stageCode": "adventure_stage.stage_014",
+    "stageId": 1010000102110,
+    "flagCode": "system_flag.feature.growth_quest",
+    "flagId": 91218007,
+    "visible": true
+  },
+  {
+    "id": 9000007,
+    "name": "Dispatch Quest",
+    "stageCode": "adventure_stage.stage_046",
+    "stageId": 1010000105111,
+    "flagCode": "system_flag.feature.expedition",
+    "flagId": 91218016,
+    "visible": true
+  },
+  {
+    "id": 9000008,
+    "name": "Ais Episode",
+    "stageCode": "adventure_stage.stage_138",
+    "stageId": 1010000114108,
+    "flagCode": "system_flag.feature.story_ais_quest",
+    "flagId": 91218009,
+    "visible": true
+  },
+  {
+    "id": 9000009,
+    "name": "Lefiya Episode",
+    "stageCode": "adventure_stage.main2_201107",
+    "stageId": 1010000201107,
+    "flagCode": "system_flag.feature.story_lef_quest",
+    "flagId": 91218010,
+    "visible": true
+  },
+  {
+    "id": 9000010,
+    "name": "Special Event quest",
+    "stageCode": "adventure_stage.stage_155",
+    "stageId": 1010000116110,
+    "flagCode": "system_flag.feature.extra_sp_boss_quest",
+    "flagId": 91218011,
+    "visible": false
+  },
+  {
+    "id": 9000011,
+    "name": "Hero Ais",
+    "stageCode": "adventure_stage.main2_201101",
+    "stageId": 1010000201101,
+    "flagCode": "system_flag.feature.hero_choice_ais",
+    "flagId": 91218012,
+    "visible": true
+  },
+  {
+    "id": 9000012,
+    "name": "Hero Lefiya",
+    "stageCode": "adventure_stage.main2_301101",
+    "stageId": 1010000301101,
+    "flagCode": "system_flag.feature.hero_choice_lef",
+    "flagId": 91218013,
+    "visible": true
+  },
+  {
+    "id": 9000013,
+    "name": "Ryu Episode",
+    "stageCode": "adventure_stage.stage_234",
+    "stageId": 1010000123113,
+    "flagCode": "system_flag.feature.story_ryu_quest",
+    "flagId": 91218014,
+    "visible": true
+  },
+  {
+    "id": 9000014,
+    "name": "Casino",
+    "stageCode": "adventure_stage.main2_403111",
+    "stageId": 1010000403111,
+    "flagCode": "system_flag.feature.casino",
+    "flagId": 91218015,
+    "visible": true
+  },
+  {
+    "id": 9000015,
+    "name": "Rehammer",
+    "stageCode": "adventure_stage.stage_210",
+    "stageId": 1010000121109,
+    "flagCode": "system_flag.feature.blacksmith_remake",
+    "flagId": 91218017,
+    "visible": true
+  },
+  {
+    "id": 9000016,
+    "name": "Upgrade",
+    "stageCode": "adventure_stage.stage_210",
+    "stageId": 1010000121109,
+    "flagCode": "system_flag.feature.blacksmith_enhance",
+    "flagId": 91218018,
+    "visible": true
+  },
+  {
+    "id": 9000017,
+    "name": "Smelting",
+    "stageCode": "adventure_stage.stage_210",
+    "stageId": 1010000121109,
+    "flagCode": "system_flag.feature.blacksmith_evolve",
+    "flagId": 91218019,
+    "visible": true
+  },
+  {
+    "id": 9000018,
+    "name": "Familia",
+    "stageCode": "adventure_stage.stage_014",
+    "stageId": 1010000102110,
+    "flagCode": "system_flag.feature.familia",
+    "flagId": 91218021,
+    "visible": true
+  },
+  {
+    "id": 9000019,
+    "name": "",
+    "stageCode": "adventure_stage.stage_014",
+    "stageId": 1010000102110,
+    "flagCode": "system_flag.feature.closed_event_shop",
+    "flagId": 91218022,
+    "visible": false
+  },
+  {
+    "id": 9000020,
+    "name": "",
+    "stageCode": "adventure_stage.stage_046",
+    "stageId": 1010000105111,
+    "flagCode": "system_flag.feature.profile_event_history",
+    "flagId": 91218023,
+    "visible": false
+  },
+  {
+    "id": 9000021,
+    "name": "Equipment Ascension",
+    "stageCode": "adventure_stage.stage_210",
+    "stageId": 1010000121109,
+    "flagCode": "system_flag.feature.blacksmith_sublimate",
+    "flagId": 91218024,
+    "visible": true
+  },
+  {
+    "id": 9000022,
+    "name": "New Chapter",
+    "stageCode": "adventure_stage.main2_301108",
+    "stageId": 1010000301108,
+    "flagCode": "system_flag.feature.story_soa_quest",
+    "flagId": 91218025,
+    "visible": true
+  }
+]

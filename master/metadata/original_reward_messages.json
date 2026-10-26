@@ -1,0 +1,93 @@
+{
+  "sourceMasterSha256": "d41deb97cf541d6b9413f50edd43380b2a99c326a10d520fbcf1ed6d456162f0",
+  "messages": {
+    "element_event_score_ranking_reward_txt": {
+      "id": 40370094,
+      "text": "{eventName}\uff1a {title} Ranking\nRank {rank} Rewards"
+    },
+    "home_other_login_bonus_reward_text": {
+      "id": 40410040,
+      "text": "{loginBonusName}:Day{day}"
+    },
+    "pvp_final_reward_txt": {
+      "id": 40440004,
+      "text": "{eventName}:[{gradeName}] reward"
+    },
+    "pvb_final_reward_txt": {
+      "id": 40480020,
+      "text": "{eventName}:\n[All] Rank{rank} Reward"
+    },
+    "pvb_final_group_reward_txt": {
+      "id": 40480021,
+      "text": "{eventName}:\n[Group] Rank{rank} Reward"
+    },
+    "guild_raid_familia_ranking_reward_txt": {
+      "id": 40570034,
+      "text": "{eventName} : \nFamilia Ranking Rank {rank} Reward"
+    },
+    "guild_raid_defeat_count_reward_txt": {
+      "id": 40570035,
+      "text": "{eventName}:Win Count\nReward for Enemy {defeatCount}"
+    },
+    "guild_vd_guild_familia_vs_win_reward_txt": {
+      "id": 40590106,
+      "text": "{eventName}: Win Rewards"
+    },
+    "guild_vd_guild_familia_vs_lose_reward_txt": {
+      "id": 40590107,
+      "text": "{eventName}: Lose Rewards"
+    },
+    "guild_vd_guild_ranking_reward_txt": {
+      "id": 40590108,
+      "text": "{eventName}: \nRank {rank} Rewards"
+    },
+    "guild_vd_guild_league_ranking_reward_txt": {
+      "id": 40590125,
+      "text": "{eventName}\uff1a\n[{leagueName}] Reward for Rank {rank}"
+    },
+    "guild_vs_guild_tournament_ranking_reward_txt": {
+      "id": 40590158,
+      "text": "{eventName}: Rank #{rank} Reward"
+    },
+    "guild_vs_guild_support_ok_reward_txt": {
+      "id": 40590159,
+      "text": "{eventName}: Support Win Reward"
+    },
+    "guild_vs_guild_support_ng_reward_txt": {
+      "id": 40590160,
+      "text": "{eventName}: Support Lose Reward"
+    },
+    "guild_vs_guild_vote_reward_txt": {
+      "id": 40590161,
+      "text": "{eventName}: Winning Prediction Reward"
+    },
+    "shooting_daily_ranking_score_reward_txt": {
+      "id": 40610001,
+      "text": "AIS WARS Rank {} Reward"
+    },
+    "stationaly_pvp_final_reward_txt": {
+      "id": 40620013,
+      "text": "{eventName}: Rank #{rank} Reward"
+    },
+    "union_raid_familia_ranking_reward_txt": {
+      "id": 40630185,
+      "text": "{eventName} : Familia Ranking\nRank {rank} Reward"
+    },
+    "union_raid_defeat_count_reward_txt": {
+      "id": 40630186,
+      "text": "{eventName}: Battle {defeatCount} Battle Rewards"
+    },
+    "union_raid_intermediate_reward_txt": {
+      "id": 40630182,
+      "text": "{eventName}: Midway Announcement Victory Rewards"
+    },
+    "union_raid_final_win_reward_txt": {
+      "id": 40630183,
+      "text": "{eventName}: Win Rewards"
+    },
+    "union_raid_final_lose_reward_txt": {
+      "id": 40630184,
+      "text": "{eventName}: Lose Rewards"
+    }
+  }
+}

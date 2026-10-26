@@ -1,0 +1,17 @@
+[Unit]
+Description=DanMemoRe Online
+After=network.target
+
+[Service]
+User=danmemo
+Group=danmemo
+WorkingDirectory=/opt/DanMemoRe-Online
+ExecStart=/opt/DanMemoRe-Online/.venv/bin/danmemo serve
+Restart=on-failure
+RestartSec=5
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

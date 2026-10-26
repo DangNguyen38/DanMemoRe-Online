@@ -1,0 +1,797 @@
+@charset "utf-8";
+/*基本設定
+------------------------------------- */
+* {box-sizing:border-box;}
+body { background-color: #F2F2F2; color: #101010; font-family: sans-serif; margin: 0; padding: 0; font-size: 24px;  -webkit-text-size-adjust: 100%;}
+a {color: #308080;}
+.wrapper { width: 1240px; margin: 0 auto; text-align: left; display: none;}
+.main { margin: 0 auto; width: 1240px; padding-bottom:20px; }
+.topShadow { position: fixed; top: 0px; left: 0px; width: 100%; height: 40px; background-image: url(../img/shadow_top.png); background-repeat: no-repeat; background-position: top center; z-index:100;}
+div img { vertical-align: bottom;}
+
+
+/* == テキスト色 == */
+.basicBlue { color:#0c40d6; }
+.basicRed { color:#a90e0e; }
+
+/* == ぶら下げインデント == */
+.withAsterisk {
+	padding-left: 1.3em;
+	display: inline-block;
+	margin-top : 1em;
+}
+
+.withAsterisk:before {
+	content: "※";
+	display: inline-block;
+	margin-left: -1.3em;
+	width:1.3em;
+}
+
+/* ローディング メッセージ
+------------------------------------- */
+html, body, .loadingMessage {
+	height: 100%;
+}
+
+.loadingMessage {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-align-items: center;
+	align-items: center;
+}
+
+/* お知らせ インデックス
+------------------------------------- */
+.newsFeed {
+	width: 1240px;
+	background-image: url(../img/background.png);
+	margin: 0 auto;
+}
+
+.contentBlock {
+	padding: 12px;
+/*	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: flex-start;
+	justify-content: flex-start;*/
+	display: table;
+	vertical-align: top;
+	width: 100%;
+	border: 3px #AEA58B solid;
+	border-radius: 3px;
+	background-color: rgba(255,255,255,0.6);
+}
+
+.newsFeed a > .contentBlock {
+	margin-bottom: 20px;
+}
+
+.newsFeed a:last-of-type .contentBlock {
+	margin-bottom: 0px;
+}
+
+.contentBlock .no-content {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: center;
+ 	justify-content: center;
+	-webkit-align-items: center;
+	align-items: center;
+	min-height: 136px;
+	width: 100%;
+	font-size: 24px;
+}
+
+.newsFeed a {
+	text-decoration: none;
+	color: #101010;
+	/*display: inline-block;*/
+	width: 100%;
+}
+
+.box1 { width: 322px; display: table-cell;}
+.box1-inner { width: 322px; }
+
+/*.box2 { -webkit-flex-grow: 1; flex-grow: 1;width: 888px;}*/
+.box2 { display: table-cell;vertical-align: top;}
+.box2-inner {
+	display: table;
+	vertical-align: top;
+	width: 100%;
+	background-image: url(../img/dot_line.png);
+	background-repeat: repeat-x;
+	padding-top: 12px;
+	min-height: 64px;
+}
+
+.box2 h2 {
+	padding: 0;
+	margin: 0;
+	min-height: 70px;
+	line-height: 30px;
+	font-size: 26px;
+	padding-bottom: 6px;
+	font-weight: normal;
+	-webkit-text-size-adjust: 100%;
+}
+
+.box3 {
+	min-height:48px;
+	display: table-cell;
+}
+
+.box3 img {vertical-align: middle;}
+
+.box4 {
+	display: table-cell;
+	text-align: right;
+
+}
+
+.box4 img,
+.box4 span.date {vertical-align: middle;}
+
+
+
+/* == 日付 == */
+.index .date,
+.more .date {
+	display: inline-block;
+	white-space: nowrap;
+	width: 8em;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: right;
+	font-size: 24px;
+}
+
+/* タブ 設定
+------------------------------------- */
+/* == 基本設定 == */
+.tab-list .is_active { }
+.tab-panel { display: none; }
+.tab-panel.is_show { display: block;}
+
+.tab-list {
+	width: 1240px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+.more .tab-list {
+	margin-top: 20px;
+}
+
+.tab-list ul,
+.tab-list ul li {
+	list-style: none;
+	margin: 0;
+	padding:0;
+}
+
+.tab-list ul {
+	display: -webkit-flex;
+	display: flex;
+	margin-left:10px;
+}
+
+.tab-list ul li {
+	margin-right: 20px;
+}
+
+.tab-list ul li a {
+	display: inline-block;
+	position: relative;
+}
+
+.tab-list ul li a.tab-panel1.is_active { background-image: url(../img/tab_01_on.png); }
+.tab-list ul li a.tab-panel2.is_active { background-image: url(../img/tab_02_on.png); }
+.tab-list ul li a.tab-panel3.is_active { background-image: url(../img/tab_03_on.png); }
+.tab-list ul li a.tab-panel4.is_active { background-image: url(../img/tab_04_on.png); }
+
+.tab-list ul li a.tab-panel1.is_active  img.menu,
+.tab-list ul li a.tab-panel2.is_active  img.menu,
+.tab-list ul li a.tab-panel3.is_active  img.menu,
+.tab-list ul li a.tab-panel4.is_active  img.menu { visibility: hidden; }
+
+.tab-list img.new {
+	position: absolute;
+	top:-6px;
+	left:-10px;
+}
+
+/* == アンカー位置調整 == */
+
+.index #tab-panel1,
+.index #tab-panel2,
+.index #tab-panel3,
+.index #tab-panel4,
+.more #tab-panel1,
+.more #tab-panel2,
+.more #tab-panel3,
+.more #tab-panel4 {
+  margin-top: -80px; /* リンク位置上昇分 */
+  padding-top: 80px; /* 上昇分を戻す */
+}
+
+
+/* もっと見る・戻る リンク
+------------------------------------- */
+/* == もっと見る == */
+.moreLink {
+	width: 1240px;
+	margin: 0 auto;
+	text-align: right;
+	background-color: #F2F2F2;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+.moreLink a {
+	display: inline;
+}
+
+/* == 戻る == */
+.backLink {
+	width: 1240px;
+	margin: 0 auto;
+	text-align: left;
+	background-color: #F2F2F2;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+.backLink a {
+	display: inline;
+}
+
+/* == 詳細用にマージン調整 == */
+.detail .backLink {
+	background-color: transparent;
+	padding-left: 26px;
+	padding-bottom: 20px;
+}
+
+/* カルーセル設定
+------------------------------------- */
+/* == 基本設定 == */
+.swiper-container {
+	margin-top: 10px;
+}
+.swiper-container,
+.swiper-container2 {
+	width: 1240px;
+	padding: 10px 0;
+}
+
+.swiper-slide {
+	text-align: center;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	align-items: center;
+}
+
+/* == カルーセルのグラデーション背景 == */
+.transparent-bothends {
+	position: relative;
+	width: 1240px;
+	margin: 0px auto;
+	padding: 10px 0;
+	color: #3F7EFA;
+	font-size: 18px;
+	text-align: center;
+	background-image:-webkit-gradient(linear,0% 50%,100% 50%,color-stop(0, rgb(247,247,247)),color-stop(0.2, rgb(209,205,189)),color-stop(0.5, rgb(209,205,189)),color-stop(0.8, rgb(209,205,189)),color-stop(0.99, rgb(247,247,247)),color-stop(1, rgb(247,247,247)));
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.transparent-bothends::before,
+.transparent-bothends::after {
+	content: '';
+	position: absolute;
+	left: 0;
+	right: 0;
+	width: 100%;
+	height: 2px;
+	margin: 0 auto;
+	text-align: center;
+	background-image: -webkit-linear-gradient(left, transparent, #AEA58B 25%, #AEA58B 75%, transparent);
+	background-image: linear-gradient(left,transparent, #AEA58B 25%, #AEA58B 75%, transparent);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.transparent-bothends::before { top: 0; }
+.transparent-bothends::after { bottom: 0; }
+
+/* == 送りボタン == */
+.button-prev,
+.button-next {
+	position: absolute;
+	top: 50%;
+	width: 27px;
+	height: 44px;
+	margin-top: -22px;
+	z-index: 10;
+	cursor: pointer;
+	-moz-background-size: 27px 44px;
+	-webkit-background-size: 27px 44px;
+	background-size: 27px 44px;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.button-prev.swiper-button-disabled,
+.button-next.swiper-disabled {
+	opacity: 0.35;
+	cursor: auto;
+	pointer-events: none;
+}
+
+.button-prev,
+.container-rtl .button-next {
+	background-image: url("../img/arrowleft.png");
+	left: 6px;
+	right: auto;
+}
+
+.button-next,
+.container-rtl .button-prev {
+	background-image: url("../img/arrowright.png");
+	right: 6px;
+	left: auto;
+}
+
+
+/* お知らせ 詳細
+------------------------------------- */
+.detail .titleBlock {
+	/*margin-top: 10px;*/
+	margin-bottom: 14px;
+	padding-bottom: 21px;
+	width: 1240px;
+	background-image: url(../img/line.png);
+	background-position: bottom left;
+	background-repeat: no-repeat;
+	display: -webkit-flex;
+	display: flex;
+}
+
+.detail .titleBlock .box1  {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-align-items: center;
+	align-items: center;
+	width: auto;
+}
+
+.detail .titleBlock .box2 {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-align-items: center;
+	align-items: center;
+	padding-right: 26px;
+	margin-left: auto;
+	text-align: right;
+	vertical-align: bottom;
+	align-self: flex-end;
+}
+
+.detail .titleBlock .box2 .date {
+	display: block;
+	font-size: 24px;
+	margin-left: auto;
+	white-space: nowrap;
+}
+
+
+.detail .statusBlock {
+	margin-top: 10px;
+	margin-bottom: 14px;
+	padding-top: 21px;
+	width: 1240px;
+	background-image: url(../img/line.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+	display: -webkit-flex;
+	display: flex;
+}
+
+.detail .statusBlock .box1  {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-align-items: center;
+	align-items: center;
+	padding-left: 26px;
+}
+
+.detail .statusBlock .box2 {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-align-items: center;
+	align-items: center;
+	padding-right: 26px;
+	margin-left: auto;
+	text-align: right;
+}
+
+.detail .statusBlock .box2 .date {
+	display: block;
+	font-size: 24px;
+	margin-left: auto;
+}
+
+.detail .keyvalueBlcok {
+	margin-bottom: 20px;
+}
+
+.detail .mainBlcok {
+	padding: 0 26px;
+}
+.detail .statusBlock+.mainBlcok {
+	margin-top: 20px;
+}
+
+/* お知らせ 詳細：見出しデザイン
+------------------------------------- */
+.detail h1.title {
+	margin: 0;
+	padding: 0 26px;
+	color: #897330;
+	font-size: 30px;
+	line-height: 34px;
+}
+
+.detail h2 {
+	background-color: #9C9479;
+	padding: 5px;
+	margin: 20px -26px;
+	width: 1240px;
+/*	padding-left: 26px;
+	padding-right: 26px;*/
+}
+
+.detail h2 span {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	border:2px white solid;
+	background-color: #B6AF95;
+	background-image: url(../img/hx-bg-lt.png),url(../img/hx-bg-rb.png);
+	background-position:left top,right bottom;
+	background-repeat: no-repeat,no-repeat;
+	padding: 8px;
+	padding-left:40px;
+	padding-right:40px;
+	color:#fff;
+	font-size: 30px;
+	min-height:58px;
+	line-height: 1.1;
+	width: 100%;
+}
+
+
+.detail .mainBlcok h3:first-child {
+	margin-top: 20px;
+}
+
+.detail .mainBlcok h3 {
+	margin-bottom: 0px;
+}
+
+.detail .mainBlcok h4 {
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+
+.detail .mainBlcok h3+table.argo-table {
+	margin-top: 10px;
+}
+
+.mainBlcok h4+table.argo-table {
+	margin-top: 6px;
+}
+
+/* お知らせ 詳細：リストデザイン
+------------------------------------- */
+.mainBlcok ul {
+	padding-left: 1em;
+}
+
+.mainBlcok ol {
+	padding-left: 30px;
+}
+
+/* お知らせ 詳細：テーブルデザイン
+------------------------------------- */
+
+/* == テーブル基本 == */
+.mainBlcok table.argo-table {
+	border-spacing: 2px;
+	border-color: #B6AF95;
+	border-collapse: collapse;
+	max-width: 100%;
+	border-top: 2px solid #B6AF95;
+	border-left: 2px solid #B6AF95;
+	margin: 1em 0;
+}
+
+.mainBlcok table.argo-table th,
+.mainBlcok table.argo-table td {
+	padding: 10px;
+	vertical-align: top;
+	border-bottom: 2px solid #B6AF95;
+	border-right: 2px solid #B6AF95;
+	font-size: 24px;
+	-webkit-text-size-adjust: 100%;
+}
+
+.mainBlcok table.argo-table.heading th {
+	background-color: #B6AF95;
+	border-right: 2px solid #fff;
+	color: #fff;
+	border-bottom: 2px solid #fff;
+}
+
+.mainBlcok table.argo-table.heading th:last-child {
+	border-right: 2px solid #B6AF95;
+}
+
+.mainBlcok table.argo-table.heading tr:last-child th {
+	border-bottom: 2px solid #B6AF95;
+}
+
+/* == 幅を最大 == */
+.mainBlcok table.stretch {
+	width: 100%;
+}
+
+/* == 幅を均等割 == */
+.mainBlcok table.justify {
+	width: 100%;
+	table-layout: fixed;
+}
+
+/* == 背景色を交互に == */
+
+.mainBlcok table.argo-table.stripe tr:nth-child(even) {
+	background-color: #E1D7BB;
+}
+
+.mainBlcok table.argo-table.heading.stripe tr:nth-child(odd) {
+	background-color: #E1D7BB;
+}
+
+.mainBlcok table.argo-table.heading.stripe tr:nth-child(even) {
+	background-color: #F2F2F2;
+}
+
+/* == セルの背景色を一括指定 == */
+.mainBlcok table.argo-table.col01 tr td:nth-child(1),
+.mainBlcok table.argo-table.col02 tr td:nth-child(2),
+.mainBlcok table.argo-table.col03 tr td:nth-child(3),
+.mainBlcok table.argo-table.col04 tr td:nth-child(4),
+.mainBlcok table.argo-table.col05 tr td:nth-child(5),
+.mainBlcok table.argo-table.col06 tr td:nth-child(6),
+.mainBlcok table.argo-table.col07 tr td:nth-child(7),
+.mainBlcok table.argo-table.col08 tr td:nth-child(8),
+.mainBlcok table.argo-table.col09 tr td:nth-child(9),
+.mainBlcok table.argo-table.col10 tr td:nth-child(10),
+.mainBlcok table.argo-table.col11 tr td:nth-child(11),
+.mainBlcok table.argo-table.col12 tr td:nth-child(12),
+.mainBlcok table.argo-table.col13 tr td:nth-child(13),
+.mainBlcok table.argo-table.col14 tr td:nth-child(14),
+.mainBlcok table.argo-table.col15 tr td:nth-child(15),
+.mainBlcok table.argo-table.col16 tr td:nth-child(16),
+.mainBlcok table.argo-table.col17 tr td:nth-child(17),
+.mainBlcok table.argo-table.col18 tr td:nth-child(18),
+.mainBlcok table.argo-table.col19 tr td:nth-child(19),
+.mainBlcok table.argo-table.col20 tr td:nth-child(20) {
+	background-color: #E1D7BB;
+}
+
+/* == セル内のデータを自動的に改行しない == */
+.mainBlcok table.argo-table.col00-header-nowrap tr th,
+.mainBlcok table.argo-table.col01-header-nowrap tr th:nth-child(1),
+.mainBlcok table.argo-table.col02-header-nowrap tr th:nth-child(2),
+.mainBlcok table.argo-table.col03-header-nowrap tr th:nth-child(3),
+.mainBlcok table.argo-table.col04-header-nowrap tr th:nth-child(4),
+.mainBlcok table.argo-table.col05-header-nowrap tr th:nth-child(5),
+.mainBlcok table.argo-table.col06-header-nowrap tr th:nth-child(6),
+.mainBlcok table.argo-table.col07-header-nowrap tr th:nth-child(7),
+.mainBlcok table.argo-table.col08-header-nowrap tr th:nth-child(8),
+.mainBlcok table.argo-table.col09-header-nowrap tr th:nth-child(9),
+.mainBlcok table.argo-table.col10-header-nowrap tr th:nth-child(10),
+.mainBlcok table.argo-table.col11-header-nowrap tr th:nth-child(11),
+.mainBlcok table.argo-table.col12-header-nowrap tr th:nth-child(12),
+.mainBlcok table.argo-table.col13-header-nowrap tr th:nth-child(13),
+.mainBlcok table.argo-table.col14-header-nowrap tr th:nth-child(14),
+.mainBlcok table.argo-table.col15-header-nowrap tr th:nth-child(15),
+.mainBlcok table.argo-table.col16-header-nowrap tr th:nth-child(16),
+.mainBlcok table.argo-table.col17-header-nowrap tr th:nth-child(17),
+.mainBlcok table.argo-table.col18-header-nowrap tr th:nth-child(18),
+.mainBlcok table.argo-table.col19-header-nowrap tr th:nth-child(19),
+.mainBlcok table.argo-table.col20-header-nowrap tr th:nth-child(20),
+
+.mainBlcok table.argo-table.col01-data-nowrap tr td:nth-child(1),
+.mainBlcok table.argo-table.col02-data-nowrap tr td:nth-child(2),
+.mainBlcok table.argo-table.col03-data-nowrap tr td:nth-child(3),
+.mainBlcok table.argo-table.col04-data-nowrap tr td:nth-child(4),
+.mainBlcok table.argo-table.col05-data-nowrap tr td:nth-child(5),
+.mainBlcok table.argo-table.col06-data-nowrap tr td:nth-child(6),
+.mainBlcok table.argo-table.col07-data-nowrap tr td:nth-child(7),
+.mainBlcok table.argo-table.col08-data-nowrap tr td:nth-child(8),
+.mainBlcok table.argo-table.col09-data-nowrap tr td:nth-child(9),
+.mainBlcok table.argo-table.col10-data-nowrap tr td:nth-child(10),
+.mainBlcok table.argo-table.col11-data-nowrap tr td:nth-child(11),
+.mainBlcok table.argo-table.col12-data-nowrap tr td:nth-child(12),
+.mainBlcok table.argo-table.col13-data-nowrap tr td:nth-child(13),
+.mainBlcok table.argo-table.col14-data-nowrap tr td:nth-child(14),
+.mainBlcok table.argo-table.col15-data-nowrap tr td:nth-child(15),
+.mainBlcok table.argo-table.col16-data-nowrap tr td:nth-child(16),
+.mainBlcok table.argo-table.col17-data-nowrap tr td:nth-child(17),
+.mainBlcok table.argo-table.col18-data-nowrap tr td:nth-child(18),
+.mainBlcok table.argo-table.col19-data-nowrap tr td:nth-child(19),
+.mainBlcok table.argo-table.col20-data-nowrap tr td:nth-child(20)
+.mainBlcok table.argo-table tr.header-nowrap th {
+	white-space: nowrap;
+}
+
+/* == セル内のレイアウトを指定(中央寄せ、右寄せ) == */
+.mainBlcok table.argo-table.col00-header-center tr th,
+.mainBlcok table.argo-table.col01-header-center tr th:nth-child(1),
+.mainBlcok table.argo-table.col02-header-center tr th:nth-child(2),
+.mainBlcok table.argo-table.col03-header-center tr th:nth-child(3),
+.mainBlcok table.argo-table.col04-header-center tr th:nth-child(4),
+.mainBlcok table.argo-table.col05-header-center tr th:nth-child(5),
+.mainBlcok table.argo-table.col06-header-center tr th:nth-child(6),
+.mainBlcok table.argo-table.col07-header-center tr th:nth-child(7),
+.mainBlcok table.argo-table.col08-header-center tr th:nth-child(8),
+.mainBlcok table.argo-table.col09-header-center tr th:nth-child(9),
+.mainBlcok table.argo-table.col10-header-center tr th:nth-child(10),
+.mainBlcok table.argo-table.col11-header-center tr th:nth-child(11),
+.mainBlcok table.argo-table.col12-header-center tr th:nth-child(12),
+.mainBlcok table.argo-table.col13-header-center tr th:nth-child(13),
+.mainBlcok table.argo-table.col14-header-center tr th:nth-child(14),
+.mainBlcok table.argo-table.col15-header-center tr th:nth-child(15),
+.mainBlcok table.argo-table.col16-header-center tr th:nth-child(16),
+.mainBlcok table.argo-table.col17-header-center tr th:nth-child(17),
+.mainBlcok table.argo-table.col18-header-center tr th:nth-child(18),
+.mainBlcok table.argo-table.col19-header-center tr th:nth-child(19),
+.mainBlcok table.argo-table.col20-header-center tr th:nth-child(20),
+
+.mainBlcok table.argo-table.col01-data-center tr td:nth-child(1),
+.mainBlcok table.argo-table.col02-data-center tr td:nth-child(2),
+.mainBlcok table.argo-table.col03-data-center tr td:nth-child(3),
+.mainBlcok table.argo-table.col04-data-center tr td:nth-child(4),
+.mainBlcok table.argo-table.col05-data-center tr td:nth-child(5),
+.mainBlcok table.argo-table.col06-data-center tr td:nth-child(6),
+.mainBlcok table.argo-table.col07-data-center tr td:nth-child(7),
+.mainBlcok table.argo-table.col08-data-center tr td:nth-child(8),
+.mainBlcok table.argo-table.col09-data-center tr td:nth-child(9),
+.mainBlcok table.argo-table.col10-data-center tr td:nth-child(10),
+.mainBlcok table.argo-table.col11-data-center tr td:nth-child(11),
+.mainBlcok table.argo-table.col12-data-center tr td:nth-child(12),
+.mainBlcok table.argo-table.col13-data-center tr td:nth-child(13),
+.mainBlcok table.argo-table.col14-data-center tr td:nth-child(14),
+.mainBlcok table.argo-table.col15-data-center tr td:nth-child(15),
+.mainBlcok table.argo-table.col16-data-center tr td:nth-child(16),
+.mainBlcok table.argo-table.col17-data-center tr td:nth-child(17),
+.mainBlcok table.argo-table.col18-data-center tr td:nth-child(18),
+.mainBlcok table.argo-table.col19-data-center tr td:nth-child(19),
+.mainBlcok table.argo-table.col20-data-center tr td:nth-child(20),
+.mainBlcok table.argo-table tr.header-center th,
+.mainBlcok table.argo-table tr.data-center td,
+.mainBlcok table.argo-table th.data-center,
+.mainBlcok table.argo-table td.data-center {
+	text-align: center;
+}
+
+
+.mainBlcok table.argo-table.col00-header-right tr th,
+.mainBlcok table.argo-table.col01-header-right tr th:nth-child(1),
+.mainBlcok table.argo-table.col02-header-right tr th:nth-child(2),
+.mainBlcok table.argo-table.col03-header-right tr th:nth-child(3),
+.mainBlcok table.argo-table.col04-header-right tr th:nth-child(4),
+.mainBlcok table.argo-table.col05-header-right tr th:nth-child(5),
+.mainBlcok table.argo-table.col06-header-right tr th:nth-child(6),
+.mainBlcok table.argo-table.col07-header-right tr th:nth-child(7),
+.mainBlcok table.argo-table.col08-header-right tr th:nth-child(8),
+.mainBlcok table.argo-table.col09-header-right tr th:nth-child(9),
+.mainBlcok table.argo-table.col10-header-right tr th:nth-child(10),
+.mainBlcok table.argo-table.col11-header-right tr th:nth-child(11),
+.mainBlcok table.argo-table.col12-header-right tr th:nth-child(12),
+.mainBlcok table.argo-table.col13-header-right tr th:nth-child(13),
+.mainBlcok table.argo-table.col14-header-right tr th:nth-child(14),
+.mainBlcok table.argo-table.col15-header-right tr th:nth-child(15),
+.mainBlcok table.argo-table.col16-header-right tr th:nth-child(16),
+.mainBlcok table.argo-table.col17-header-right tr th:nth-child(17),
+.mainBlcok table.argo-table.col18-header-right tr th:nth-child(18),
+.mainBlcok table.argo-table.col19-header-right tr th:nth-child(19),
+.mainBlcok table.argo-table.col20-header-right tr th:nth-child(20),
+
+.mainBlcok table.argo-table.col01-data-right tr td:nth-child(1),
+.mainBlcok table.argo-table.col02-data-right tr td:nth-child(2),
+.mainBlcok table.argo-table.col03-data-right tr td:nth-child(3),
+.mainBlcok table.argo-table.col04-data-right tr td:nth-child(4),
+.mainBlcok table.argo-table.col05-data-right tr td:nth-child(5),
+.mainBlcok table.argo-table.col06-data-right tr td:nth-child(6),
+.mainBlcok table.argo-table.col07-data-right tr td:nth-child(7),
+.mainBlcok table.argo-table.col08-data-right tr td:nth-child(8),
+.mainBlcok table.argo-table.col09-data-right tr td:nth-child(9),
+.mainBlcok table.argo-table.col10-data-right tr td:nth-child(10),
+.mainBlcok table.argo-table.col11-data-right tr td:nth-child(11),
+.mainBlcok table.argo-table.col12-data-right tr td:nth-child(12),
+.mainBlcok table.argo-table.col13-data-right tr td:nth-child(13),
+.mainBlcok table.argo-table.col14-data-right tr td:nth-child(14),
+.mainBlcok table.argo-table.col15-data-right tr td:nth-child(15),
+.mainBlcok table.argo-table.col16-data-right tr td:nth-child(16),
+.mainBlcok table.argo-table.col17-data-right tr td:nth-child(17),
+.mainBlcok table.argo-table.col18-data-right tr td:nth-child(18),
+.mainBlcok table.argo-table.col19-data-right tr td:nth-child(19),
+.mainBlcok table.argo-table.col20-data-right tr td:nth-child(20),
+.mainBlcok table.argo-table tr.header-right th,
+.mainBlcok table.argo-table tr.data-right td,
+.mainBlcok table.argo-table th.data-right,
+.mainBlcok table.argo-table td.data-right {
+	text-align: right;
+}
+
+/* グリッドレイアウト （マルチカラム）
+------------------------------------- */
+/* == グリッド基本 == */
+.algo-Grid {
+	display: table;
+	margin: 1em 0 0 -1em;
+}
+
+.grid-cell {
+	display: table-cell;
+	vertical-align: top;
+}
+
+
+.algo-Grid > .grid-cell {
+	padding: 0 0 0 1em;
+}
+
+.grid-cell > table.argo-table {
+	margin-top:0;
+}
+
+/* == グリッドを均等化 == */
+.algo-Grid.justify {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-align-items: stretch;
+	align-items: stretch;
+}
+
+.algo-Grid.justify .grid-cell {
+	-webkit-flex: 1;
+	flex: 1;
+}
+
+/* == グリッド間の隙間無し == */
+.no-gutters {
+	margin: 1em 0 0 0;
+}
+
+.no-gutters > .grid-cell {
+	padding: 0;
+}

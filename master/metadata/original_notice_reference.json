@@ -1,0 +1,70 @@
+{
+  "style": {
+    "sha256": "85a93343989379c4dc443ffffc232291c97053c92fd40a8ec5b89f22656d7d16",
+    "url": "https://cdn-danmemo.akamaized.net/us/webview/common/notice/7b7d9eec076720ad473f6d6166a159b85b817527/css/style.css",
+    "replay": "https://web.archive.org/web/20230422070012id_/https://cdn-danmemo.akamaized.net/us/webview/common/notice/7b7d9eec076720ad473f6d6166a159b85b817527/css/style.css"
+  },
+  "banners": {
+    "171000837": {
+      "title": "DanMachi S2 OVA Release Gacha",
+      "sourceTitle": "DanMachi S2 OVA Release Gacha Available!",
+      "featured": [
+        1012027035
+      ],
+      "description": "DanMachi S2 OVA Release Gacha is now available!\n<br>\n4★\n    [Swimsuit Contest]Hestia are newly added!\n<br>※These are not Time-Limited Units and will be added as Regular Units.\n    <br />\n<br />\n    We have <span class=\"basicRed\">doubled the rate of pulling 4★ Assist</span> for this Gacha!!",
+      "sourceSha256": "4a9426ef8e5c42e54d74d364868436d4022d4e00b903d6237c7f2b4a0a3308d4"
+    },
+    "171000857": {
+      "title": "True Familia Royale Special Gacha Part 1",
+      "sourceTitle": "True Familia Royale Special Gacha Part 1 Available!",
+      "featured": [
+        1011021001,
+        1011001016,
+        1012034005
+      ],
+      "description": "To celebrate the release of True Familia Royale, this Gacha features a <span class=\"basicRed\">popular battle Unit</span> that has a powerful skill!<br />",
+      "sourceSha256": "75e30ae132587862b5963fdc25036820918a929bca5b2f67d3fbbde3b97208a3"
+    },
+    "171002059": {
+      "title": "Hero Festa Gacha",
+      "sourceTitle": "Hero Festa Gacha",
+      "featured": [
+        1011007007,
+        1011066004
+      ],
+      "description": "Hero Festa Gacha available!\n<br>\n4★\n    [Pinnacle]Ottarl,     [Wheel Song]Allen Fromel are available in the gacha as Hero Festa Limited Units!\n<br>\n\n<br />\nYou can draw 4★\n    [Pinnacle]Ottarl,    [Wheel Song]Allen Fromel with <span class=\"basicRed\">Hero Ascension Unlocked</span>!<br />",
+      "sourceSha256": "6f713a599c2f7ee330f3a8349f8ed75ce25162a4121547b5a45687644ac673a6"
+    },
+    "171002115": {
+      "title": "Orgion Saga -Prelude to the End- Gacha: Prelude",
+      "sourceTitle": "Orgion Saga -Prelude to the End- Gacha: Prelude",
+      "featured": [
+        1011012010,
+        1011006018,
+        1012028011
+      ],
+      "description": "Orgion Saga -Prelude to the End- Gacha: Prelude available!\n<br>4★    [Cursed Fangs]Bete Loga,    [Nine Recitations]Riveria Ljos Alf,    [Goddess&#039; Gambit]Loki are available in this Gacha for a limited time!\n<br>\n\n\n    <!-- 期間限定ガチャ英雄昇華のサマリ -->\n    <br />You can draw 4★    [Cursed Fangs]Bete Loga,    [Nine Recitations]Riveria Ljos Alf with <span class=\"basicRed\">Hero Ascension Unlocked</span>!<br />\n\n    <!-- 登場キャラクター -->",
+      "sourceSha256": "3922f9e80a40577321d04f75293c4fea069017c4f02726676ab4f83f34c8cf47"
+    },
+    "171000580": {
+      "title": "Anime Gacha: Azure Goddess",
+      "sourceTitle": "Anime Gacha: Azure Goddess Available!",
+      "featured": [
+        1012027032
+      ],
+      "description": "Anime Gacha: Azure Goddess is now available!<br>\n4★[Azure Goddess]Hestia is newly added!<br>\nThere is <span class=\"basicRed\">double the amount of 4★ Assist in this Gacha!!</span>\n<br>\n※These are not Time-Limited Units and will be added as Regular Units.<br>",
+      "sourceSha256": "0a3518b686b41b6c308524b522bd842e44ce94254995ebfce7b037ec26c2e728",
+      "source": "https://web.archive.org/web/20190717093551id_/https://api-danmemo-us.wrightflyer.net/asset/notice/view/1108?"
+    },
+    "171000582": {
+      "title": "Anime Free 11 Draw Gacha: Azure Goddess",
+      "sourceTitle": "Anime Free 11 Draw Gacha: Azure Goddess Available!",
+      "featured": [
+        1012027032
+      ],
+      "description": "One Time Only! \"Anime Free 11 Draw Gacha: Azure Goddess\" can be drawn for free for once during the above period!\n<br>",
+      "sourceSha256": "5c9cd3708bfdd6583a1f95e44810e156efc1b9b2c4d29628229d9e6b30f2ff87",
+      "source": "https://web.archive.org/web/20190717093609id_/https://api-danmemo-us.wrightflyer.net/asset/notice/view/1106?"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "UserInfo": "userId",
+  "UserStatus": "userId",
+  "UserAdventureState": "userId",
+  "UserPvPParty": "userId",
+  "UserProfile": "userId",
+  "UserExplorerMember": "userId",
+  "UserAlarmSetting": "userId",
+  "UserPvBParty": "userId",
+  "UserPvBHighScoreParty": "userId",
+  "UserCasinoState": "userId",
+  "UserPokerState": "userId",
+  "UserExpeditionInfo": "userId",
+  "UserGvEParty": "userId",
+  "UserAdventureLevelInfo": "userId",
+  "UserGuildRaidState": "userId",
+  "UserGuildEventStaminas": "userId",
+  "UserShootingGameRankingReward": "userId",
+  "UserUnderPvPInfo": "userId",
+  "UserSerialPvpInfo": "userId"
+}

@@ -1,0 +1,10 @@
+{
+  "171000305": {
+    "masterTitle": "[Paid] Attack on Orario Freedom Gacha",
+    "displayTitle": "Attack on Orario Freedom Gacha",
+    "evidence": "The exact 171000305 artwork says Freedom and guarantees 1/4/7/10, with no Paid label. Original lottery fields 20/21/22 are 1/1/40 and 30/31/32 are 11/1/400, while paid Attack on Orario 171000306 uses 11/3/400 with a one-time fixed draw.",
+    "sourceAsset": "contents/3/files/lottery/background/171000305.png",
+    "scope": "Display metadata only. Original master, prices, pools, guarantees and draw history are unchanged.",
+    "sourceAssetSha256": "3a1e09d2a9493901e24f0076e56aabc41876f467bd4426b8522e57897c6b4b9c"
+  }
+}

@@ -1,0 +1,15 @@
+[server]
+bind = "127.0.0.1"
+port = 28768
+origin = "http://127.0.0.1:28768"
+content_bind = "127.0.0.1"
+content_port = 28766
+workers = 8
+trusted_proxy = false
+
+[paths]
+assets = "static/bundles"
+client_apk = "static/client/config.arm64_v8a.apk"
+state = "var"
+output = "output"
+schedule = "config/schedule.json"

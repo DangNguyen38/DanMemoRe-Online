@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling>=1.27,<2"]
+build-backend = "hatchling.build"
+
+[project]
+name = "danmemore-online"
+version = "0.1.0"
+description = "Community online server reimplementation for DanMachi Memoria Freese"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+danmemo = "danmemo.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/danmemo"]
+[tool.hatch.build.targets.wheel.force-include]
+"master" = "danmemo/_data/master"
+"migrations" = "danmemo/_data/migrations"
+"config/server.example.toml" = "danmemo/_data/config/server.example.toml"
+"config/schedule.example.json" = "danmemo/_data/config/schedule.example.json"
