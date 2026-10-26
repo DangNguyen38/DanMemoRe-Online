@@ -29,7 +29,7 @@ The domain-oriented layout follows the separation used by [Axel](https://github.
 
 ## Required inputs
 
-The repository contains server source and runtime metadata. **Game assets, APKs, account saves, signing identities and live server configuration are not distributed.** Supply your own compatible archive before starting:
+The repository contains server source and runtime metadata. **The bulk game asset archive, APKs, account saves, signing identities and live server configuration are not distributed.** Runtime catalogs and preserved in-game notice templates are included. Supply your own compatible archive before starting:
 
 ```text
 static/bundles/
