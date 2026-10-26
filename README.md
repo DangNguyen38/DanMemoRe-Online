@@ -25,7 +25,6 @@ var/                    Generated accounts, databases, caches and logs (not trac
 output/                 Built APKs (not tracked)
 ```
 
-The domain-oriented layout follows the separation used by [Axel](https://github.com/Assasans/axel); this project remains a Python server. It does not import Axel's game code or Rust implementation.
 
 ## Required inputs
 
